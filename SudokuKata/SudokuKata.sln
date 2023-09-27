@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuKata", "SudokuKata\SudokuKata.csproj", "{5B763B1B-8543-467D-84A6-9F8F6E8C159B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuKataTests", "SudokuKataTests\SudokuKataTests.csproj", "{A43C5EE0-2F15-41FA-92CB-42DCE872EFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5B763B1B-8543-467D-84A6-9F8F6E8C159B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B763B1B-8543-467D-84A6-9F8F6E8C159B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B763B1B-8543-467D-84A6-9F8F6E8C159B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A43C5EE0-2F15-41FA-92CB-42DCE872EFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43C5EE0-2F15-41FA-92CB-42DCE872EFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43C5EE0-2F15-41FA-92CB-42DCE872EFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43C5EE0-2F15-41FA-92CB-42DCE872EFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
